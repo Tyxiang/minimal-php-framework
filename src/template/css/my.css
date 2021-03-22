@@ -1,0 +1,44 @@
+.info {
+    flex: 0 0 auto; 
+    padding: 2px;
+    background: var(--color-base-brighter);
+}
+.info-left {
+    float: left;
+    color: var(--color-base-dark);
+}
+.info-right {
+    float: right;
+}
+
+.inquire{
+    text-align: right;
+    padding: 10px 0 5px 0;
+}
+.inquire-input{
+    width: 150px;
+}
+
+.show{
+    text-align: center;
+    margin: auto auto;
+    padding: 5px;
+}
+
+.sign {
+    margin: auto auto;
+    width: 360px; 
+    background-color: var(--color-base);
+    padding: 50px;
+    box-shadow: 3px 3px 3px var(--color-gray);
+    border-radius: 5px
+}
+.sign-input {
+    text-align: center;
+    width: 250px;
+    margin: 5px;
+}
+.sign-submit {
+    width: 250px;
+    margin: 5px;
+}
